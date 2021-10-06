@@ -8,7 +8,7 @@
 ## Warning !
 
 Set your 1,2,3 ID's password in these line inside the String !
-edit_these line in main.py
+edit_these line in main.py, otherwise this tool is useless :)
 
 line(--44, 45--)
 usr = "user_name_here"
@@ -21,4 +21,5 @@ pwd2 = "password_here"
 line(--82, 83--)
 usr3 = "user_name_here"
 pwd3 = "password_here"
+
 
